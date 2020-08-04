@@ -12,6 +12,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=B-Plus-Tree)](https://github.com/klmui/B-Plus-Tree)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Armstrongs-Axioms-Calculator)](https://github.com/klmui/Armstrongs-Axioms-Calculator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Weather-Visualizer)](https://github.com/klmui/Weather-Visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Rock-Paper-Scissors)](https://github.com/klmui/Rock-Paper-Scissors)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Snake-Game)](https://github.com/klmui/Snake-Game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Random-Fur-end)](https://github.com/klmui/Random-Fur-end)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=COVID-19-Data-map)](https://github.com/klmui/COVID-19-Data-map)
