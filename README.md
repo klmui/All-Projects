@@ -1,30 +1,30 @@
 # Welcome to my GitHub!
 ### This readme contains all of my meaningful repositories. It also contains info about me if you're interested!
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Drive360)](https://github.com/klmui/Drive360)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Course-Quad)](https://github.com/klmui/Course-Quad)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=klmui.github.io)](https://github.com/klmui/klmui.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khoa165&repo=BuddENetwork)](https://github.com/khoa165/BuddENetwork)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Mobile-Sensor-Analysis)](https://github.com/klmui/Mobile-Sensor-Analysis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Clustering)](https://github.com/klmui/Clustering)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Around-the-World)](https://github.com/klmui/Around-the-World)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Explore-Madison)](https://github.com/klmui/Explore-Madison)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=B-Plus-Tree)](https://github.com/klmui/B-Plus-Tree)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Armstrongs-Axioms-Calculator)](https://github.com/klmui/Armstrongs-Axioms-Calculator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Weather-Visualizer)](https://github.com/klmui/Weather-Visualizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Rock-Paper-Scissors)](https://github.com/klmui/Rock-Paper-Scissors)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Snake-Game)](https://github.com/klmui/Snake-Game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Random-Fur-end)](https://github.com/klmui/Random-Fur-end)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=COVID-19-Data-map)](https://github.com/klmui/COVID-19-Data-map)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=To-Do-List)](https://github.com/klmui/To-Do-List)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Flashcard-Generator)](https://github.com/klmui/Flashcard-Generator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Web-Notes)](https://github.com/klmui/Web-Notes)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Generics-Review)](https://github.com/klmui/Generics-Review)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=YelpCamp)](https://github.com/klmui/YelpCamp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=RGB-Color-Game)](https://github.com/klmui/RGB-Color-Game)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=Community-Chat)](https://github.com/klmui/Community-Chat)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=klmui&repo=EcoShare)](https://github.com/klmui/EcoShare)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Code4Good-UWMadison&repo=FoodShed)](https://github.com/Code4Good-UWMadison/FoodShed)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Drive360)](https://github.com/klmui/Drive360)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Course-Quad)](https://github.com/klmui/Course-Quad)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/pin/?username=klmui&repo=klmui.github.io)](https://github.com/klmui/klmui.github.io)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=khoa165&repo=BuddENetwork)](https://github.com/khoa165/BuddENetwork)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Mobile-Sensor-Analysis)](https://github.com/klmui/Mobile-Sensor-Analysis)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/pin/?username=klmui&repo=Clustering)](https://github.com/klmui/Clustering)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Around-the-World)](https://github.com/klmui/Around-the-World)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Explore-Madison)](https://github.com/klmui/Explore-Madison)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=B-Plus-Tree)](https://github.com/klmui/B-Plus-Tree)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Armstrongs-Axioms-Calculator)](https://github.com/klmui/Armstrongs-Axioms-Calculator)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Weather-Visualizer)](https://github.com/klmui/Weather-Visualizer)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Rock-Paper-Scissors)](https://github.com/klmui/Rock-Paper-Scissors)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Snake-Game)](https://github.com/klmui/Snake-Game)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Random-Fur-end)](https://github.com/klmui/Random-Fur-end)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=COVID-19-Data-map)](https://github.com/klmui/COVID-19-Data-map)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=To-Do-List)](https://github.com/klmui/To-Do-List)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Flashcard-Generator)](https://github.com/klmui/Flashcard-Generator)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Web-Notes)](https://github.com/klmui/Web-Notes)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Generics-Review)](https://github.com/klmui/Generics-Review)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=YelpCamp)](https://github.com/klmui/YelpCamp)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=RGB-Color-Game)](https://github.com/klmui/RGB-Color-Game)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Community-Chat)](https://github.com/klmui/Community-Chat)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=EcoShare)](https://github.com/klmui/EcoShare)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=Code4Good-UWMadison&repo=FoodShed)](https://github.com/Code4Good-UWMadison/FoodShed)
 
 
 ### Introduction
@@ -195,7 +195,7 @@ Individualization | Achiever | Significance | Responsibility | Learner
 ---
 
 <img align="left" alt="klmui's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=klmui&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+    src="https://github-readme-stats-gold.vercel.app/api?username=klmui&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 [website]: https://klmui.com
 [facebook]: https://www.facebook.com/kenneth.mui.94/
