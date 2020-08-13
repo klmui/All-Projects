@@ -3,10 +3,10 @@
 
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Drive360)](https://github.com/klmui/Drive360)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Course-Quad)](https://github.com/klmui/Course-Quad)
-[![ReadMe Card](https://github-readme-stats-gold.vercel.app/pin/?username=klmui&repo=klmui.github.io)](https://github.com/klmui/klmui.github.io)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=klmui.github.io)](https://github.com/klmui/klmui.github.io)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=khoa165&repo=BuddENetwork)](https://github.com/khoa165/BuddENetwork)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Mobile-Sensor-Analysis)](https://github.com/klmui/Mobile-Sensor-Analysis)
-[![ReadMe Card](https://github-readme-stats-gold.vercel.app/pin/?username=klmui&repo=Clustering)](https://github.com/klmui/Clustering)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Clustering)](https://github.com/klmui/Clustering)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Around-the-World)](https://github.com/klmui/Around-the-World)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Explore-Madison)](https://github.com/klmui/Explore-Madison)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=B-Plus-Tree)](https://github.com/klmui/B-Plus-Tree)
