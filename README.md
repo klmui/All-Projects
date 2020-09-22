@@ -8,7 +8,7 @@
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Mobile-Sensor-Analysis)](https://github.com/klmui/Mobile-Sensor-Analysis)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Clustering)](https://github.com/klmui/Clustering)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Around-the-World)](https://github.com/klmui/Around-the-World)
-[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Explore-Madison)](https://github.com/klmui/Explore-Madison)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=UW-Culture-Project&repo=Explore-Madison)](https://github.com/UW-Culture-Project/Explore-Madison)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=B-Plus-Tree)](https://github.com/klmui/B-Plus-Tree)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Armstrongs-Axioms-Calculator)](https://github.com/klmui/Armstrongs-Axioms-Calculator)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Weather-Visualizer)](https://github.com/klmui/Weather-Visualizer)
