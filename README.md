@@ -104,15 +104,15 @@ Individualization | Achiever | Significance | Responsibility | Learner
             </tr>
             <tr>
                 <td style="text-align: center;">HTML</td>
-                <td style="text-align: center;">&nbsp;</td>
+                <td style="text-align: center;">React</td>
                 <td style="text-align: center;">&nbsp;</td>
                 <td style="text-align: center;">Postman</td>
             </tr>
             <tr>
                 <td style="text-align: center;">CSS</td>
+                <td style="text-align: center;">React Native</td>
                 <td style="text-align: center;">&nbsp;</td>
-                <td style="text-align: center;">&nbsp;</td>
-                <td style="text-align: center;">&nbsp;</td>
+                <td style="text-align: center;">Adobe XD</td>
             </tr>
             <tr>
                 <td style="text-align: center;">C</td>
@@ -146,15 +146,9 @@ Individualization | Achiever | Significance | Responsibility | Learner
             </tr>
             <tr>
                 <td style="text-align: center">SCSS</td>
-                <td style="text-align: center">React</td>
-                <td style="text-align: center">&nbsp;</td>
-                <td style="text-align: center">AWS</td>
-            </tr>
-            <tr>
-                <td style="text-align: center">&nbsp;</td>
                 <td style="text-align: center">Vue</td>
                 <td style="text-align: center">&nbsp;</td>
-                <td style="text-align: center">&nbsp;</td>
+                <td style="text-align: center">AWS</td>
             </tr>
             <tr>
                 <td style="text-align: center">&nbsp;</td>
@@ -171,6 +165,12 @@ Individualization | Achiever | Significance | Responsibility | Learner
             <tr>
                 <td style="text-align: center">&nbsp;</td>
                 <td style="text-align: center">Ionic</td>
+                <td style="text-align: center">&nbsp;</td>
+                <td style="text-align: center">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="text-align: center">&nbsp;</td>
+                <td style="text-align: center">&nbsp;</td>
                 <td style="text-align: center">&nbsp;</td>
                 <td style="text-align: center">&nbsp;</td>
         </tbody>
