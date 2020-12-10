@@ -1,8 +1,8 @@
 # Welcome to my GitHub!
 ### This readme contains all of my meaningful repositories. It also contains info about me if you're interested! The respositiory for my Course Scheduler for UW-Madison students developed using React will be uploaded soon. Also, the repository for my Fitness Tracking Application developed using React Native will be uploaded soon.
 
-[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Drive360)](https://github.com/klmui/Drive360)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Course-Quad)](https://github.com/klmui/Course-Quad)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Drive360)](https://github.com/klmui/Drive360)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=khoa165&repo=BuddENetwork)](https://github.com/khoa165/BuddENetwork)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=dialogflow-beta-2020)](https://github.com/klmui/dialogflow-beta-2020)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Clustering)](https://github.com/klmui/Clustering)
