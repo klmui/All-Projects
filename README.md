@@ -5,6 +5,8 @@
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Drive360)](https://github.com/klmui/Drive360)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=khoa165&repo=BuddENetwork)](https://github.com/khoa165/BuddENetwork)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=dialogflow-beta-2020)](https://github.com/klmui/dialogflow-beta-2020)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=UW-Madison-Course-Scheduler)](https://github.com/klmui/UW-Madison-Course-Scheduler)
+[![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Mobile-Fitness-Tracker)](https://github.com/klmui/Mobile-Fitness-Tracker)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Clustering)](https://github.com/klmui/Clustering)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=Mobile-Sensor-Analysis)](https://github.com/klmui/Mobile-Sensor-Analysis)
 [![ReadMe Card](https://github-readme-stats-gold.vercel.app/api/pin/?username=klmui&repo=klmui.github.io)](https://github.com/klmui/klmui.github.io)
